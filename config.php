@@ -4,11 +4,11 @@
 
 ////////////////////////////以下选项只需在使用MySQL时填写////////////////////////////
 //MySQL 数据库地址，普通主机一般为localhost
-define('DB_HOST','127.0.0.1');
+define('DB_HOST','sl-us-south-1-portal.12.dblayer.com:37641');
 //MySQL 数据库用户名
-define('DB_USER','root');
+define('DB_USER','admin');
 //MySQL 数据库密码
-define('DB_PASSWD','');
+define('DB_PASSWD','LRWYHCAEIAHROCDZ');
 //MySQL 数据库名称
 define('DB_NAME','tiebacloud');
 
